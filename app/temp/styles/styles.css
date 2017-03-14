@@ -565,6 +565,10 @@ img {
 	margin-right: auto;
 }
 
+.wrapper--medium {
+  max-width: 976px;
+}
+
 .page-section {
 	padding: 4.5em 0;
 }
